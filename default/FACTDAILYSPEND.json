@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1767794563482,
+    "description" : "",
+    "identifier" : "FACTDAILYSPEND",
+    "lastModifiedTimestamp" : 1767794563482,
+    "name" : "FACT_DAILYSPEND",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
