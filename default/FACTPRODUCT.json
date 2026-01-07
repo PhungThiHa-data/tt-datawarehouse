@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1767794465110,
+    "description" : "",
+    "identifier" : "FACTPRODUCT",
+    "lastModifiedTimestamp" : 1767794465110,
+    "name" : "FACT_PRODUCT",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
