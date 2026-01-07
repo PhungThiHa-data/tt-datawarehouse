@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1767794623303,
+    "description" : "",
+    "identifier" : "FACTTRANSACTION",
+    "lastModifiedTimestamp" : 1767794623303,
+    "name" : "FACT_TRANSACTION",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
